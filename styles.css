@@ -1,0 +1,27 @@
+.add-customer-container{
+    border: 1px solid red;
+    height: 500px;
+    width: 100%;
+    position: relative;
+    top: 20%;
+}
+.add-item-container{
+
+    border: 1px solid red;
+    height: 500px;
+    width: 100%;
+    position: relative;
+    top: 20%;
+}
+.add-order-container{
+    border: 1px solid red;
+    height: 500px;
+    width: 100%;
+    position: relative;
+    top: 20%;
+    
+}
+.btnplaceOrder{
+    position: relative;
+    margin-top: 10%;
+}
